@@ -51,7 +51,7 @@ Contributions to the project are welcome. Please follow the standard fork, branc
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [LICENSE.md](LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgments
 
