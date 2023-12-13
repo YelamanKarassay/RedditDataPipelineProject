@@ -18,7 +18,7 @@ The system is composed of the following major components:
 
 ## Architecture Diagram
 
-[Insert a diagram that visually represents the architecture]
+![Alt text](diagram.png)
 
 ## Detailed Component Description
 
